@@ -39,7 +39,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Cards
             var cardPayload = new AskAnExpertCardPayload
             {
                 Description = payload.UserQuestion,     // Pre-populate the description with the user's question.
-                //UserQuestion = payload.UserQuestion,
+                UserQuestion = payload.UserQuestion,
                 KnowledgeBaseAnswer = payload?.KnowledgeBaseAnswer,
             };
 

@@ -38,7 +38,8 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Cards
                     },
                     new AdaptiveTextBlock
                     {
-                        Text = question,
+                        //Text = question, <don't want to repeat question>
+                        Text = null,
                         Wrap = true,
                     },
                     new AdaptiveTextBlock
