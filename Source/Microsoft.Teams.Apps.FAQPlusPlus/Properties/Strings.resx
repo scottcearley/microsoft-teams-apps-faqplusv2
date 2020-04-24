@@ -348,7 +348,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>This value represents the SME Ticket in the Unassigned status</comment>
   </data>
   <data name="AskAnExpertSubheaderText" xml:space="preserve">
-    <value>The expert will respond to you directly with a chat message.</value>
+    <value>A representative from IT will respond with a chat message</value>
     <comment>Ask en expert card subtitle text:lets the user know that SME team member can directly chat with the requester.</comment>
   </data>
   <data name="DescriptionFact" xml:space="preserve">
