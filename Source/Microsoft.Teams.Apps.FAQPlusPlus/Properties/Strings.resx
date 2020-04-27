@@ -260,7 +260,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Title text of share feedback user carousel card.</comment>
   </data>
   <data name="AskAnExpertDisplayText" xml:space="preserve">
-    <value>(Preparing message to Help Desk)</value>
+    <value>Preparing message to Help Desk</value>
     <comment>Ask an expert display text: text sent to the bot when ask an expert button is clicked.</comment>
   </data>
   <data name="ShareFeedbackDisplayText" xml:space="preserve">
