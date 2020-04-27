@@ -260,7 +260,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Title text of share feedback user carousel card.</comment>
   </data>
   <data name="AskAnExpertDisplayText" xml:space="preserve">
-    <value>Preparing message to Help Desk</value>
+    <value>Preparing message to send to the Help Desk</value>
     <comment>Ask an expert display text: text sent to the bot when ask an expert button is clicked.</comment>
   </data>
   <data name="ShareFeedbackDisplayText" xml:space="preserve">
@@ -348,7 +348,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>This value represents the SME Ticket in the Unassigned status</comment>
   </data>
   <data name="AskAnExpertSubheaderText" xml:space="preserve">
-    <value>A representative from IT will respond with a chat message</value>
+    <value>A representative from IT will respond to you with a chat message</value>
     <comment>Ask en expert card subtitle text:lets the user know that SME team member can directly chat with the requester.</comment>
   </data>
   <data name="DescriptionFact" xml:space="preserve">
